@@ -220,7 +220,7 @@
           "title1": "Verkkokaupat",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LISÄÄ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://avush96.github.io/Efroni-Studio/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LISÄÄ</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -236,7 +236,7 @@
           "title2": "Verkkosivut",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LISÄÄ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://avush96.github.io/Efroni-Studio/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LISÄÄ</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -252,7 +252,7 @@
           "title3": "Verkkomarkkinointi",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LISÄÄ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://avush96.github.io/Efroni-Studio/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LISÄÄ</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -268,7 +268,7 @@
           "title4": "Räätälöidyt sovellukset",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LISÄÄ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://avush96.github.io/Efroni-Studio/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LISÄÄ</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -349,7 +349,7 @@
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -361,7 +361,7 @@
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -373,7 +373,7 @@
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -385,7 +385,7 @@
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -509,8 +509,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>LÄHETÄ VIESTI&nbsp;</a>",
-          "text1": "<b>Osoite</b><br>Säterintie 6<br>0720 Pukinmäki, Helsinki<br><br><br><b>OTA YHTEYTTÄ</b><br>Email: avi.efroni@gmail.com<br>\nPhone: +358 4423 787 9<br><br>Avoimet työpaikat<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<b>Osoite</b><br>Säterintie 6<br>0720 Pukinmäki, Helsinki<br><br><br><b>OTA YHTEYTTÄ</b><br>Email: avi.efroni@gmail.com<br>\nPhone: +358 4423 787 94<br><br>Avoimet työpaikat<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "avi.efroni@gmail.com",
@@ -1332,8 +1332,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>LÄHETÄ VIESTI&nbsp;</a>",
-          "text1": "<b>Osoite</b><br>Säterintie 6<br>0720 Pukinmäki, Helsinki<br><br><br><b>OTA YHTEYTTÄ</b><br>Email: avi.efroni@gmail.com<br>\nPhone: +358 4423 787 9<br><br>Avoimet työpaikat<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<b>Osoite</b><br>Säterintie 6<br>0720 Pukinmäki, Helsinki<br><br><br><b>OTA YHTEYTTÄ</b><br>Email: avi.efroni@gmail.com<br>\nPhone: +358 4423 787 94<br><br>Avoimet työpaikat<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "avi.efroni@gmail.com",
@@ -1663,8 +1663,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>LÄHETÄ VIESTI&nbsp;</a>",
-          "text1": "<b>Osoite</b><br>Säterintie 6<br>0720 Pukinmäki, Helsinki<br><br><br><b>OTA YHTEYTTÄ</b><br>Email: avi.efroni@gmail.com<br>\nPhone: +358 4423 787 9<br><br>Avoimet työpaikat<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<b>Osoite</b><br>Säterintie 6<br>0720 Pukinmäki, Helsinki<br><br><br><b>OTA YHTEYTTÄ</b><br>Email: avi.efroni@gmail.com<br>\nPhone: +358 4423 787 94<br><br>Avoimet työpaikat<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://avush96.github.io/Efroni-Studio/\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "avi.efroni@gmail.com",
