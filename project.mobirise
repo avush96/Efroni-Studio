@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.2",
-    "versionPublish": "4.3.2",
+    "versionPublish": "4.5.3",
     "name": "NewSite-07-21_0111",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,9 @@
       "additionalSetColors": []
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 30
+    "uniqCompNum": 31,
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -779,7 +781,7 @@
           "_anchor": "ext_menu-c"
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "loadsvg": "/addons/social-feed/feed/assets/loading.svg",
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -791,7 +793,7 @@
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImage": "/addons/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
             "overlayColor": "#7e9b9f",
             "overlayOpacity": 0.6
@@ -1015,6 +1017,8 @@
         },
         {
           "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "socialFacebook": true,
             "postsNumber": 5,
             "socialGoogle": false,
@@ -1023,7 +1027,7 @@
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImage": "/addons/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
             "overlay": true,
             "overlayColor": "#7e9b9f",
             "overlayOpacity": 0.6
@@ -1031,7 +1035,7 @@
           "alias": "facebook-comments",
           "_name": "facebook-comments-block",
           "_anchor": "facebook-comments-block-29",
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>"
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"/addons/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>"
         },
         {
           "_name": "contacts2",
